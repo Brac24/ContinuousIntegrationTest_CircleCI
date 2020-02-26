@@ -9,4 +9,4 @@
     
      steps:
        - checkout
-       - run: MsBuild ContinuousIntegrationTest_CircleCI.sln
+       - run: MsBuild ContinuousIntegrationTest_CircleCI/ContinuousIntegrationTest_CircleCI.sln
